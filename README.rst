@@ -1,7 +1,8 @@
 scsgate |Build Status| |Docs|
 =============================
 
-> **Note**: This is a fork of the original [`scsgate`](https://github.com/flavio/scsgate) module. This fork extends the original functionality by adding features such as dimmers or auto-status check.
+This is a fork of the original `scsgate <https://github.com/flavio/scsgate>`__ module.
+This fork extends the original functionality by adding features such as dimmers or auto-status check.
 
 This python module allows to interact with a
 `SCSGate <https://goo.gl/aKnpDw>`__ device.
