@@ -1,20 +1,15 @@
 scsgate |Build Status| |Docs|
 =============================
 
+> **Note**: This is a fork of the original [`scsgate`](https://github.com/flavio/scsgate) module. This fork extends the original functionality by adding features such as dimmers or auto-status check.
+
 This python module allows to interact with a
 `SCSGate <https://goo.gl/aKnpDw>`__ device.
 
 The module has been written to manage a SCSGate device with
 `home-assistant <https://home-assistant.io/>`__.
 
-Installation
-------------
 
-The scsgate module can be installed using pip:
-
-::
-
-    sudo pip install scsgate
 
 Monitoring the SCS bus
 ----------------------
